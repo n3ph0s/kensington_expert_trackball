@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/david/kensington_setup.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=/home/david/kensington_setup.sh
+Name=/home/david/kensington_setup.sh
+Comment[en_US]=
+Comment=
